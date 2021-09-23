@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@500;700&family=Roboto:ital,wght@0,300;1,300&display=swap');
+body {
+    font-family: Roboto, Arial, Helvetica, serif;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.main{
+    margin: 92px 124px 170px 124px;
+}
+h1{
+    font-size: Roboto slab;
+    width: 230px;
+
+}
+
+.paragrafimg {
+    
+     display: flex;
+     justify-content: space-between;
+
+     }
+
+.img-reestr {
+    display: flex;
+    justify-content: space-between;  
+    align-items: center;
+}
+.paragraf{
+    width: 900px;
+    height: 408px;
+}
+.img-big{
+    width: 340px;
+    height: 320px;
+}
+ .podium{
+  width: 320px;
+  height: 99px;
+  }
+
+h5{
+    font-size: 15px;
+}
+.p{
+    font-size: 13px;
+}
+.img-reestr{
+    justify-content: space-evenly;
+    width: 1400px;
+    margin-top:40px;
+}
+.gray{
+    background-color: #efefef;
+    border-radius: 500%;
+    position: relative;
+    z-index: -5;
+    bottom: 50px;
+}
+.podium2{
+    width: 189px;
+  height: 70px;
+  margin-left: 37px;
+}
+.par{
+    font-size: 24px;
+}
